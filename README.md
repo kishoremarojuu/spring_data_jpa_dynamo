@@ -4,6 +4,7 @@ JavaGithubCode:
 http://javasampleapproach.com/spring-framework/spring-data/how-to-use-spring-data-dynamodb-example-spring-boot#8_Way_to_check_DynamoDB_Table
 
 Dynamo DB provides the jar to be downloaded locally and work with Dynamo Db
+Method1:
 
 1.Refer this link to download the jar to the local ->https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html
 
@@ -33,9 +34,11 @@ amazon.aws.accesskey=********************
 amazon.aws.secretkey=****************************************
 
 7.D:\SomeDrive\programs\18.AWS\DynamoDBLocalJar>aws dynamodb list-tables --endpoint-url http://localhost:8000/shell
-
 8.run the spring boot application, check the rest URL's 
+
+
 -------------------------------------------------------------------------------------------------------------
+Method2:
 Without running the local instance of the jar, you can still save the data in the remote directly, 
 
 Following upto 4 steps above
