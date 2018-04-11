@@ -1,7 +1,4 @@
 # spring_data_jpa_dynamo
-spring boot application to connect to NoSql DynamoDB
-JavaGithubCode:
-http://javasampleapproach.com/spring-framework/spring-data/how-to-use-spring-data-dynamodb-example-spring-boot#8_Way_to_check_DynamoDB_Table
 
 Dynamo DB provides the jar to be downloaded locally and work with Dynamo Db
 Method1:
