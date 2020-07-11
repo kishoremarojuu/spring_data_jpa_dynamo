@@ -27,11 +27,6 @@ public class Customer {
 
 
 
-
-
-
-
-
 	public void setId(String id) {
 		this.id = id;
 	}
